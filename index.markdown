@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Jamie Palka is very cool.
