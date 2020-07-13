@@ -7,4 +7,4 @@ layout: home
 
 Jamie Palka is very cool.
 
-But Benjamin is a great numpiscipi guy.
+But Benjamin is a great numpi/scipi-guy.
