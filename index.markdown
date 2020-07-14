@@ -5,6 +5,4 @@
 layout: home
 ---
 
-Jamie Palka is very cool.
-
-But Benjamin is a great numpi/scipi-guy.
+#Dad I made it
