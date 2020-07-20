@@ -13,6 +13,9 @@
 
 
   <body>
+    {% for item in site.data.nav.yml %}
+    <a href="{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
     {{ content }}
   </body>
 </html>
