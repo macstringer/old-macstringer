@@ -14,3 +14,6 @@ Elle Deich gives killer hugs.
 
 Finn James is a solid teacher of website design.
 
+Shailen Parmar is an empathetic god.
+
+Pavel Pivarshev consistently is wearing the cleanest fit in the room.

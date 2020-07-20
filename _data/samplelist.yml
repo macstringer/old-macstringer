@@ -4,3 +4,5 @@
   url: /about
 - name: Blog
   url: /blog
+- name: Quotes
+  url: /quotes
