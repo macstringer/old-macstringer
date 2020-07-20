@@ -12,7 +12,7 @@ Anna Smirnova can write a cover letter like a pro.
 
 Elle Deich gives killer hugs.
 
-Finn James is a solid teacher of website design.
+Finn James is a 10/10 teacher of website design.
 
 Shailen Parmar is an empathetic god.
 
