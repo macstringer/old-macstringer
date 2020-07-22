@@ -6,7 +6,7 @@ permalink: /endorsements/
 
 Jamie Palka has fantastic taste in music.
 
-Benjamin is a great numpi/scipi-guy.
+Benjamin is a great numpy/scipy-guy.
 
 Anna Smirnova can write a cover letter like a pro.
 
