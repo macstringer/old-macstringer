@@ -1,50 +1,59 @@
 
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 h1 {
-  color: pink;
+  color: #2e2e2e;
   text-align: center;
+  font-family: “Neue Haas Grotesk Display Pro”, “Helvetica Neue”, Helvetica, sans-serif;
+  font-size: 35px;
 }
 
 p {
-  font-family: verdana;
-  font-size: 20px;
-  color: #363636;
+  font-family: “Neue Haas Grotesk Display Pro”, “Helvetica Neue”, Helvetica, sans-serif;
+  font-size: 17px;
+  color: #2e2e2e;
 
-  margin-right: 150px;
-  margin-left: 80px;
 }
 
 
-.current {
-    color: black;
+
+
+
+// Nav Bar Shit
+
+// This code bolds the current page title, but doesnt work all the way yet
+.current, .current:visited {
+    color: #2e2e2e;
+    font-weight: bold;
   }
 
-
+// This removes color and underlines from the nav bar links
 .myHeader a {
   text-decoration: none;
 }
-  
+
+// This positions the header  
 .myHeader {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 
     text-align: center;
 
   }
 
+// This is the bulk of the nav bar shit
 .navLink {
-  margin-right: 5px;
-  margin-left: 5px;
+  margin-right: 1.25%;
+  margin-left: 1.25%;
 
   text-transform: lowercase;
 
-  color: hotpink;
+  color: #2e2e2e;
   font-size: 20px;
   font-family: “Neue Haas Grotesk Display Pro”, “Helvetica Neue”, Helvetica, sans-serif;
   //text-align: center;
-  font-weight: bold;
+  //font-weight: bold;
 
    /* unvisited link */
   a:link {
@@ -58,7 +67,7 @@ p {
 
   /* mouse over link */
   a:hover {
-    color:  #363636 ;
+    color:  #2e2e2e ;
   }
 
   /* selected link */
@@ -68,17 +77,16 @@ p {
   
 }
 
+
 .myFooter {
   position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
-  text-align: center;
+  left: 20%;
+  bottom: 75px;
+  width: 60%;
+  background-color: white;
+  color: #666666;
+  text-align: left;
 }
-
-
 
   /* unvisited link */
 a:link {
@@ -89,3 +97,47 @@ a:link {
 a:visited {
   color: green;
 }
+
+
+
+
+//This code is for the about page
+
+// This code crops the profile picture
+.image-cropper {
+  margin-left: 0%;
+  margin-top: 0%;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  margin-left: -15%; //centers the image
+  height: 200%;
+  width: auto;
+}
+
+.padder {
+  padding: 25px;
+}
+
+.textSizer1 {
+  width: 400px;
+  margin-left: 35px;
+}
+
+// This is some code I stole off the internet that puts two divs next to eachother
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  //background-color: dodgerblue;
+}
+
+
+
+
