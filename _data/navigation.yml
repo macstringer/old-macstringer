@@ -2,8 +2,8 @@
   url: /
 - name: About
   url: /about
-- name: Blog
-  url: /blog
+- name: cv
+  url: /cv
 - name: Quotes
   url: /quotes
 - name: Endorsements

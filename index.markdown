@@ -5,11 +5,16 @@ title: Mac Stringer
 layout: default
 ---
 
-Dad I made it
+<div>
+
+<p> Dad I made it! </p>
 
 
-
+<p>
 This is mac's work in progress webpage. 
 If you check up on this you can see how my progress comes along!
-
+</p>
+<p>
 Or maybe I'll just fail and it'll be ugly forever.
+</p>
+</div>

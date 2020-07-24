@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Endorsements
-permalink: /endorsements/
+permalink: /endorsements
 ---
 
-I see no god up here.
-Other than ME.
+<div class="padder">
+<img src="/noGod.png" alt="I see no God up here.">
+</div>
