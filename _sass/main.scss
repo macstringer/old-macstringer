@@ -13,12 +13,19 @@ h2 {
   font-family: “Neue Haas Grotesk Display Pro”, “Helvetica Neue”, Helvetica, sans-serif;
   font-size: 1.5rem;
 }
+h3 {
+  color: #929292 ;
+  text-align: left;
+  font-family: “Neue Haas Grotesk Display Pro”, “Helvetica Neue”, Helvetica, sans-serif;
+  font-size: 1.1rem;  
+  font-weight: normal;
+}
 
 p {
   font-family: “Neue Haas Grotesk Display Pro”, “Helvetica Neue”, Helvetica, sans-serif;
   font-size: 1.25rem;
   color: #2e2e2e;
-
+  line-height: 1.75rem;
 }
 
 //code found online fixing sticky footer
@@ -112,12 +119,14 @@ body {
 
   /* unvisited link */
 a:link {
-  color: red;
+  color: #0645AD;
+  text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: green;
+  color: #0B0080;
+  text-decoration: none;
 }
 
 
