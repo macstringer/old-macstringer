@@ -9,7 +9,7 @@ permalink: /about
     <div class="tooltip">
       <span class="tooltiptext"> Photography by Finn James </span>
       <div class="image-cropper">
-          <img src="me.jpg" alt="Me" class="profile-pic">
+          <img src="pics/me.jpg" alt="Me" class="profile-pic">
       </div>
     </div>
   </div>
@@ -21,8 +21,6 @@ permalink: /about
     </div>
 
   </div>
-
-
 
 </div>
 

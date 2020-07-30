@@ -44,3 +44,51 @@
     visibility: visible;
     opacity: 1;
   } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // Drone Tooltips
+
+   /* Tooltip container */
+ .dronetooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.dronetooltip .dronetooltiptext {
+  visibility: hidden;
+  width: 10rem;
+  background-color: rgb(59, 59, 59);
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 10px;
+  font-size: 1rem;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 5%;
+  left: 2.5%;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.dronetooltip:hover .dronetooltiptext {
+  visibility: visible;
+  opacity: 1;
+} 
