@@ -1,7 +1,5 @@
 - name: Jmac
   url: /
-- name: About
-  url: /about
 - name: cv
   url: /cv
 - name: Quotes
