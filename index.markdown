@@ -18,7 +18,7 @@ layout: default
   <div class="padder">
     <h1> Jeffrey "Mac" Stringer </h1>
     <div class="textSizer1"> <p>
-    Hi I'm Mac! Welcome to my website! Currently I'm a student at Duke University, interested in a lot of things including but not limited to politics,computer science, environmental science, design, and Chinese.
+    Hi I'm Mac! Welcome to my website! Currently I'm a student at Duke University, interested in a lot of things including, but not limited to, politics,computer science, environmental science, design, and Chinese.
     </p>
     </div>
   </div>
